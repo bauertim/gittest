@@ -1,2 +1,2 @@
 console.log('config.js')
-console.log('version10aftergithub')
+console.log('version 11')
